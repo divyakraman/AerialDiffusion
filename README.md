@@ -1,4 +1,4 @@
-Paper: [**Aerial Diffusion: Text Guided Ground-to-Aerial View Translation from a Single Image using Diffusion Models**](https://arxiv.org/abs/2303.11444)
+Paper: [**Aerial Diffusion: Text Guided Ground-to-Aerial View Translation from a Single Image using Diffusion Models**](https://arxiv.org/abs/2303.11444) (SIGGRAPH Asia 2023, Conference Proceedings)
 
 Please cite our paper if you find it useful. <br>
 
